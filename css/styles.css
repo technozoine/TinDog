@@ -148,16 +148,15 @@ h2 {
 }
 
 #footer{
-    padding: 7% 15%;
-    text-align: center;
+  padding: 7% 15%;
+  text-align: center;
 }
 
 .footer-links{
-    margin: 10px auto;
-    width: 12%;
-    
+  margin: 10px auto;
+  width: 20%;
 }
 
 .link-icon{
-    color: black;
+  color: black;
 }
